@@ -1,0 +1,20 @@
+{
+  "name": "sigfox-msr",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [{
+     "plan": "heroku-postgresql:hobby-dev",
+     "options": {
+       "version": "9.5"
+     }
+  }],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
