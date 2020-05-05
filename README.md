@@ -1,3 +1,3 @@
-An example of implementation for Sigfox Message Success Rate calculation based on cloud events.
+An example of implementation for calculating the Sigfox message success rate based on cloud events.
 
--- More documentation to come --
+-- more documentation to come.
